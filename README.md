@@ -10,7 +10,7 @@ A lightweight static site built with HTML and CSS. Hosted for free on GitHub Pag
 2. Commit the change to `main`.
 3. GitHub Pages republishes automatically, usually within a few minutes.
 
-Layout, colors, typography, and mobile styles live in `styles.css`. The four project disclosures use native HTML `details` elements and work without JavaScript.
+Layout, colors, typography, and mobile styles live in `styles.css`. The five project disclosures use native HTML `details` elements and work without JavaScript.
 
 ## Preview locally
 
@@ -28,7 +28,7 @@ In the repository's **Settings → Pages**, set **Deploy from a branch**, branch
 
 ## Content sources
 
-Project and experience descriptions are based on the owner's supplied CV and public GitHub repositories, reviewed September 2026:
+Project and experience descriptions are based on the owner's supplied full CV, software-development résumé, and public GitHub repositories, reviewed September 2026:
 
 - https://github.com/myk0laUA/Scriptorium-CSC309
 - https://github.com/myk0laUA/CSC311-MLProj
@@ -36,4 +36,4 @@ Project and experience descriptions are based on the owner's supplied CV and pub
 
 Metrics describe the documented project evaluations, not independent benchmarks. The financial-news project is described using the supplied CV; its private source code is not included. The original CV and phone number are not part of this site.
 
-LinkedIn blocked automated access, so its content was not used. Education is described as an Honours B.Sc. because the supplied CV and GitHub profile name the field differently. Confirm the exact degree wording before adding the field.
+LinkedIn blocked automated access, so its content was not used. Education follows the software-development résumé: Honours Bachelor of Science. Scriptorium’s demo URL was supplied by the owner and checked before publication. Tacmedbat is presented as a team contribution, with its engineering details in Selected Work and a shorter employment-style entry under Experience.
