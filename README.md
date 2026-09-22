@@ -34,7 +34,7 @@ Project and experience descriptions are based on the owner's supplied full CV, s
 - https://github.com/myk0laUA/CSC311-MLProj
 - https://github.com/myk0laUA/CSC301-ProjectOllon
 
-Metrics describe the documented project evaluations, not independent benchmarks. The financial-news project is described using the supplied CV; its private source code is not included. The original CV and phone number are not part of this site.
+Metrics describe the documented project evaluations, not independent benchmarks. The financial-news project is described using the supplied CV; its private source code is not included. The owner-authorized downloadable CV is stored at `assets/Mykola-Zhuk-CV.pdf`; it includes the contact details from the supplied résumé. Replace this file to update the download without changing its URL.
 
 LinkedIn blocked automated access, so its content was not used. Education follows the software-development résumé: Honours Bachelor of Science. Scriptorium’s demo URL was supplied by the owner and checked before publication. Tacmedbat is presented as a team contribution, with its engineering details in Selected Work and a shorter employment-style entry under Experience.
 
@@ -44,3 +44,6 @@ LinkedIn blocked automated access, so its content was not used. Education follow
 The owner supplied the Scriptorium editor, template library, and community screenshots, along with their portrait. These are stored unchanged in `assets/`. Screenshot links open the original images; replace these files when the product interface changes.
 
 The September 22 update incorporates the owner's contribution descriptions and private project documentation. The AI pipeline is a solo client MVP demonstrated in an Azure development environment, with remaining production hardening called out. The Mistral comparison is scoped to the owner's project-specific evaluations. Private documentation, customer identifiers, resource names, and source files are not published. Scriptorium distinguishes individual template/execution work and recent OAuth additions from the wider team-built platform. Tacmedbat describes the editable-content API/admin interface tradeoff and payment/SMTP integrations without inventing performance measurements.
+
+
+The download added September 22 is the supplied FlowCV PDF, unchanged. CV review recommendations have not been applied to the downloadable document.
