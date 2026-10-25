@@ -22,3 +22,14 @@ Open http://127.0.0.1:4173. The page follows the system light/dark preference an
 
 Before publishing, check the navigation anchors, CV downloads, project disclosures, and layouts at mobile/tablet/desktop widths in both color schemes.
 
+## Stylesheet updates
+
+GitHub Pages caches static assets. After editing `styles.css`, run:
+
+```sh
+node scripts/version-styles.mjs
+node scripts/version-styles.mjs --check
+```
+
+Commit the updated `index.html` alongside the stylesheet. The content-based URL version prevents returning visitors from loading the previous design's cached CSS with the new HTML. The script uses only Node built-ins; the deployed site still needs no build step or JavaScript.
+
